@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="increase_label">Increase</string>
+    <string name="decrease_label">Decrease</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_country">CountryActivity</string>
+    <string name="title">Title: </string>
+    <string name="region">Region: </string>
+    <string name="incomeLevel">Income level</string>
+    <string name="capitalCity">capitalCity</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">latitude</string>
+    private String name="";
+    private String region="";
+    private String incomeLevel="";
+    private String capitalCity="";
+    private String longitude="";
+    private String latitude="";    <string name="title_activity_simple_xyplot">SimpleXYPLOTActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
